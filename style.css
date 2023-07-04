@@ -28,24 +28,22 @@ body {
     border-radius: 20px;
     text-align: center;
     position: relative;
+    margin: 0 7px;
 }
 
 .card img {
-    width: 288px;
-    height: 288px;
+    width: 100%;
     border-radius: 5px;
 }
 
 .card h1 {
     font-size: 18px;
-    text-align: center;
     margin: 12px 0;
 }
 
 .card p {
     font-size: 15px;
     color: hsl(220, 15%, 55%);
-    font-weight: 400;
 }
 
 .attribution {
